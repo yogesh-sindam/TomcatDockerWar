@@ -13,7 +13,7 @@
 </head>
 <body>
     <h1>Seat Booking</h1>
-    <form action="/cgi/book_seat.py" method="post">
+    <form action="/src/main/webapp/cgi/book_seat.py" method="post">
         <label for="username">Select your username:</label>
         <select id="username" name="username">
             <option value="Alex">Alex</option>
